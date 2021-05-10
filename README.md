@@ -11,6 +11,7 @@
 
 <br />
 
+
 Hi, I'm [Tomoghno Sen](sentomoghno503.wixsite.com/design), a passionate self-taught RUST programmer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
@@ -18,7 +19,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 And I Use Arch BTW.
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/CTfg7SZKO10Pe/giphy.gif?raw=true" width="408" height="408" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/CTfg7SZKO10Pe/giphy.gif?raw=true" width="320" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@tomoghnosen](https://www.instagram.com/tomoghnosen/);
