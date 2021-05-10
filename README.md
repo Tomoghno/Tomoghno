@@ -27,9 +27,10 @@ And I Use Arch BTW.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vala/vala.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linuz/linux.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
