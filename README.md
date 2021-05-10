@@ -18,7 +18,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 And I Use Arch BTW.
 
 
-  <img align="right" alt="GIF" src="https://www.github.com/Tomoghno/Tomoghno/blob/desktop/assets/hello.gif?raw=true" width="408" height="408" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/CTfg7SZKO10Pe/giphy.gif?raw=true" width="408" height="408" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@tomoghnosen](https://www.instagram.com/tomoghnosen/);
