@@ -30,7 +30,7 @@ And I Use Arch BTW.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vala/vala.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linuz/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
