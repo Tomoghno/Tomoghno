@@ -2,11 +2,14 @@
 <a href="https://www.youtube.com/channel/UC1fvGpCoIZUtnmXYf52XPcw">
   <img align="left" alt="Think Tank" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<a href="https://twitter.com/TomoghnoS">
-  <img align="left" alt="Tomoghno Sen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.reddit.com/user/TomoghnoSen">
+  <img align="left" alt="Tomoghno Sen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 <a href="https://open.spotify.com/user/313lliw5qrcpuynu5egutykb6iim">
   <img align="left" alt="Tomoghno's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://twitter.com/TomoghnoS">
+  <img align="left" alt="Tomoghno Sen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Tomoghno.Tomoghno)
