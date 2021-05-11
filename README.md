@@ -25,12 +25,7 @@ And I Use Arch BTW.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@tomoghnosen](https://www.instagram.com/tomoghnosen/);
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vala/vala.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoghno)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -41,8 +36,4 @@ Spending Time On Elementary OS (In VirtManager).
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomoghno&show_icons=true&theme=nord" alt="tomoghno" />
-
-
-
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tomoghno&show_icons=true&theme=nord" alt="tomoghno" />
