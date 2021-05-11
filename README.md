@@ -25,7 +25,7 @@ And I Use Arch BTW.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@tomoghnosen](https://www.instagram.com/tomoghnosen/);
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoghno)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoghno&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
