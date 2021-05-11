@@ -41,7 +41,7 @@ Spending Time On Elementary OS (In VirtManager).
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomoghno&show_icons=true&theme=dark" alt="tomoghno" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomoghno&show_icons=true&theme=nord" alt="tomoghno" />
 
 
 
