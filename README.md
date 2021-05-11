@@ -27,13 +27,6 @@ And I Use Arch BTW.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoghno&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Spending Time On Elementary OS (In VirtManager).
-```
-<!--END_SECTION:waka-->
-
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tomoghno&show_icons=true&theme=nord" alt="tomoghno" />
