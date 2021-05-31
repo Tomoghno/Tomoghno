@@ -29,4 +29,4 @@ And I Use Fedora BTW.
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tomoghno&show_icons=true&theme=nord" alt="tomoghno" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tomoghno&show_icons=true&theme=onedark" alt="tomoghno" />
