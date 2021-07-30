@@ -20,7 +20,7 @@ Hi, I'm [Tomoghno Sen](https://sentomoghno503.wixsite.com/design), a passionate 
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-And I Use Linux BTW.
+And I Use [Pop!_OS](https://pop.system76.com/) BTW.
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@tomoghnosen](https://www.instagram.com/tomoghnosen/);
