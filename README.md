@@ -27,5 +27,3 @@ And I Use [Pop!_OS](https://pop.system76.com/) BTW.
 - 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tomoghno&show_icons=true&theme=onedark" alt="tomoghno" />
-
-<iframe width="1040" height="585" src="https://www.youtube.com/embed/YykjpeuMNEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
