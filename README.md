@@ -29,4 +29,4 @@ And I Use [Pop!_OS](https://pop.system76.com/) BTW.
 
 - 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tomoghno&show_icons=true&theme=onedark" alt="tomoghno" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomoghno&show_icons=true&theme=onedark" alt="tomoghno" />
