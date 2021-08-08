@@ -16,11 +16,11 @@
 
 <br />
 
-Hi, I'm [Tomoghno Sen](https://sentomoghno503.wixsite.com/design), a passionate self-taught [RUST](https://www.rust-lang.org) programmer and a freelance graphic designer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Tomoghno Sen](https://sentomoghno503.wixsite.com/design), a passionate self-taught [RUST](https://www.rust-lang.org "RUST") programmer and a freelance graphic designer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-And I Use [Pop!_OS](https://pop.system76.com/) BTW.
+And I Use [Pop!_OS](https://pop.system76.com/ "Pop!_OS") BTW.
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@tomoghnosen](https://www.instagram.com/tomoghnosen/);
