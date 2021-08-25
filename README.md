@@ -20,19 +20,19 @@ Hi, I'm [Tomoghno Sen](https://sentomoghno503.wixsite.com/design "Website"), a p
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-And I Use [Pop!_OS](https://pop.system76.com/ "Pop!_OS") BTW.
+And I Use [Arch Linux](https://archlinux.org/ "Arch Linux") BTW.
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@tomoghnosen](https://www.instagram.com/tomoghnosen/ "Instagram");
 
 ## Software I Use
 
-- OS: [Pop!_OS](https://pop.system76.com/)
-- Desktop: [COSMIC](https://github.com/pop-os/cosmic)
-- Terminal: [Alacritty](https://github.com/alacritty/alacritty)
-- Shell: [zsh](https://www.zsh.org/)
-- Editor: [Neovim](https://neovim.io/)
-- File Manager: [Nautilus](https://gitlab.gnome.org/GNOME/nautilus)
-- Music player: [Lollypop](https://wiki.gnome.org/Apps/Lollypop)
-- Virtual Machine: [Boxes](https://wiki.gnome.org/Apps/Boxes)
-- Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new)
+- OS: [Arch Linux](https://archlinux.org/ "Arch Linux")
+- Desktop: [GNOME](https://www.gnome.org/ "GNOME Desktop")
+- Terminal: [Alacritty](https://github.com/alacritty/alacritty "Alacritty")
+- Shell: [zsh](https://www.zsh.org/ "ZSH")
+- Editor: [Neovim](https://neovim.io/ "Neovim")
+- File Manager: [Nautilus](https://gitlab.gnome.org/GNOME/nautilus "Nautilus")
+- Music player: [Lollypop](https://wiki.gnome.org/Apps/Lollypop "Lollypop")
+- Virtual Machine: [Boxes](https://wiki.gnome.org/Apps/Boxes "GNOME Boxes")
+- Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new "Firefox")
