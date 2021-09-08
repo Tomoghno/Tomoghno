@@ -25,7 +25,8 @@ And I Use [Arch Linux](https://archlinux.org/ "Arch Linux") BTW.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@tomoghnosen](https://www.instagram.com/tomoghnosen/ "Instagram");
 
-## Software I Use
+<details>
+<summary>Software I Use :)</summary>
 
 - OS: [Arch Linux](https://archlinux.org/ "Arch Linux")
 - Desktop: [GNOME](https://www.gnome.org/ "GNOME Desktop")
@@ -36,3 +37,4 @@ And I Use [Arch Linux](https://archlinux.org/ "Arch Linux") BTW.
 - Music player: [Lollypop](https://wiki.gnome.org/Apps/Lollypop "Lollypop")
 - Virtual Machine: [Boxes](https://wiki.gnome.org/Apps/Boxes "GNOME Boxes")
 - Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new "Firefox")
+</details>
