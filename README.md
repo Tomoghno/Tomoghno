@@ -1,15 +1,15 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.youtube.com/channel/UC1fvGpCoIZUtnmXYf52XPcw">
-  <img align="left" alt="Think Tank" width="22px" src="https://img.icons8.com/plasticine/32/youtube.svg" />
+  <img align="left" alt="Think Tank" src="https://img.icons8.com/plasticine/32/youtube.svg" />
 </a>
 <a href="https://www.reddit.com/user/TomoghnoSen">
-  <img align="left" alt="Tomoghno Sen | Twitter" width="22px" src="https://img.icons8.com/plasticine/32/reddit.svg" />
+  <img align="left" alt="Tomoghno Sen | Twitter" src="https://img.icons8.com/plasticine/32/reddit.svg" />
 </a>
 <a href="https://open.spotify.com/user/313lliw5qrcpuynu5egutykb6iim">
-  <img align="left" alt="Tomoghno's Spotify" width="22px" src="https://img.icons8.com/plasticine/32/spotify.svg" />
+  <img align="left" alt="Tomoghno's Spotify" src="https://img.icons8.com/plasticine/32/spotify.svg" />
 </a>
 <a href="https://twitter.com/TomoghnoS">
-  <img align="left" alt="Tomoghno Sen | Twitter" width="22px" src="https://img.icons8.com/plasticine/32/twitter.svg" />
+  <img align="left" alt="Tomoghno Sen | Twitter" src="https://img.icons8.com/plasticine/32/twitter.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Tomoghno.Tomoghno)
