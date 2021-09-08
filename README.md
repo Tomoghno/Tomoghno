@@ -24,7 +24,7 @@ And I Use [Arch Linux](https://archlinux.org/ "Arch Linux") BTW.
   
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@tomoghnosen](https://www.instagram.com/tomoghnosen/ "Instagram")
-- 🖥 Check out my [Arch Linux Repository](https://gitlab.com/Tomoghno/ts-arch-repo "ts-arch-repo")
+- 🖥 Check out my [Arch Linux Repository](https://gitlab.com/Tomoghno/ts-arch-repo "ts-arch-repo").
 
 <details>
 <summary>Software I Use :)</summary>
