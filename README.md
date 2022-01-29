@@ -27,13 +27,13 @@ And I Use [Arch Linux](https://archlinux.org/ "Arch Linux") BTW.
 <details>
 <summary>Software I Use :)</summary>
 
-- OS: [Arch Linux](https://archlinux.org/ "Arch Linux")
-- Desktop: [GNOME](https://www.gnome.org/ "GNOME Desktop")
-- Terminal: [Alacritty](https://github.com/alacritty/alacritty "Alacritty")
-- Shell: [zsh](https://www.zsh.org/ "ZSH")
-- Editor: [Neovim](https://neovim.io/ "Neovim")
-- File Manager: [Nautilus](https://gitlab.gnome.org/GNOME/nautilus "Nautilus")
-- Music player: [Lollypop](https://wiki.gnome.org/Apps/Lollypop "Lollypop")
-- Virtual Machine: [Boxes](https://wiki.gnome.org/Apps/Boxes "GNOME Boxes")
-- Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new "Firefox")
+- OS: [Arch Linux](https://archlinux.org/)
+- Desktop: [GNOME](https://www.gnome.org/)
+- Terminal: [Alacritty](https://github.com/alacritty/alacritty)
+- Shell: [zsh](https://www.zsh.org/)
+- Editor: [Neovim](https://neovim.io/)
+- File Manager: [Nautilus](https://apps.gnome.org/app/org.gnome.Nautilus/)
+- Music player: [Lollypop](https://wiki.gnome.org/Apps/Lollypop)
+- Virtual Machine: [Boxes](https://apps.gnome.org/app/org.gnome.Boxes/)
+- Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new)
 </details>
