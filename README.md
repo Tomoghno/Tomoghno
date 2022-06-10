@@ -1,15 +1,15 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there
 <a href="https://www.youtube.com/channel/UC1fvGpCoIZUtnmXYf52XPcw">
-  <img align="left" alt="Think Tank" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Think Tank" width="22px" src="https://img.icons8.com/fluency/32/000000/youtube-play.png" />
 </a>
 <a href="https://www.reddit.com/user/TomoghnoSen">
-  <img align="left" alt="Tomoghno Sen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  <img align="left" alt="Tomoghno Sen | Twitter" width="22px" src="https://img.icons8.com/fluency/32/000000/reddit.png" />
 </a>
 <a href="https://open.spotify.com/user/313lliw5qrcpuynu5egutykb6iim">
-  <img align="left" alt="Tomoghno's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Tomoghno's Spotify" width="22px" src="https://img.icons8.com/fluency/32/000000/spotify.png" />
 </a>
 <a href="https://twitter.com/TomoghnoS">
-  <img align="left" alt="Tomoghno Sen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Tomoghno Sen | Twitter" width="22px" src="https://img.icons8.com/fluency/32/000000/stack-of-tweets.png" />
 </a>
 <br>
 
